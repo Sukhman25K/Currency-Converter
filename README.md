@@ -21,5 +21,15 @@ To use the API, you'll need to obtain your private API key which can be done thr
 
 
 ## Installation
+After setting up Python, you can install the application to your local environment with the following instructions:
+1. Clone the repo
+   ```
+   git clone https://github.com/Sukhman25K/Currency-Converter.git
+   ```
+2. Install any missing Python packages by replacing the name in the command 
+   ```
+   python -m pip install name
+   ```
+
 
 ## Usage
