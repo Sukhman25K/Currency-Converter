@@ -6,7 +6,18 @@ Being a forex trader and global economics admirer, I created a simple Python pro
 
 # Built With
 Python was used to develop this project due to its simplicity in using API requests and integrating it with simple yet friendly graphical user interfaces with Python's built-in Tkinter module. The real-time currency rates were obtained through an API provided by API Ninjas which allowed the conversion of the currencies.
-## Supported Currencies:
+
+### Supported Currencies:
++ Australian Dollar
++ Swiss Franc
++ Chinese Yuan
++ British Pound
++ Hong Kong Dollar
++ New Zealand Dollar
++ Polish Zloty
++ Turkish New Lira
++ South Korean Won
++ Danish Krone
 
 # Getting Started
 
