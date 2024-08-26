@@ -1,4 +1,7 @@
 # About the Project
+
+![Image of the application's logo with the title and major currency symbols](https://github.com/Sukhman25K/Currency-Converter/blob/main/HomeScreen.png?raw=true) 
+
 Being a forex trader and global economics admirer, I created a simple Python program with the help of an API (API-Ninjas) to provide real-time exchange rates for a broad range of international currencies. To improve the user interface, I added a plain graphical user interface through Python's built-in library of Tkinter. 
 
 # Built With
