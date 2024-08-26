@@ -6,6 +6,7 @@ Being a forex trader and global economics admirer, I created a simple Python pro
 
 # Built With
 Python was used to develop this project due to its simplicity in using API requests and integrating it with simple yet friendly graphical user interfaces with Python's built-in Tkinter module. The real-time currency rates were obtained through an API provided by API Ninjas which allowed the conversion of the currencies.
+## Supported Currencies:
 
 # Getting Started
 
@@ -33,3 +34,9 @@ After setting up Python, you can install the application to your local environme
 
 
 ## Usage
+After entering your private API key in the ```Constants.py``` file, you can go ahead and run the application when the installation is complete and stored in your local environment. The application can be run in different ways where the first one would be using a terminal. Navigate to the folder where the application is stored and type:
+```
+python Currency-Converter.py
+```
+
+Another way to run the application would be by using an IDLE such as Python's default IDLE or a code editor such as VS code.
