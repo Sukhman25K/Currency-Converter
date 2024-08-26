@@ -5,6 +5,7 @@
 Being a forex trader and global economics admirer, I created a simple Python program with the help of an API (API-Ninjas) to provide real-time exchange rates for a broad range of international currencies. To improve the user interface, I added a plain graphical user interface through Python's built-in library of Tkinter. 
 
 # Built With
+Python was used to develop this project due to its simplicity in using API requests and integrating it with simple yet friendly graphical user interfaces with Python's built-in Tkinter module. 
 
 # Getting Started
 
