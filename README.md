@@ -50,4 +50,4 @@ After entering your private API key in the ```Constants.py``` file, you can go a
 python Currency-Converter.py
 ```
 
-Another way to run the application would be by using an IDLE such as Python's default IDLE or a code editor such as VS code
+Another way to run the application would be by using an IDLE such as Python's default IDLE or a code editor such as VS code.
