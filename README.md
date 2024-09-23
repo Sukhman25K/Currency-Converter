@@ -44,7 +44,7 @@ After setting up Python, you can install the application to your local environme
    python -m pip install name
    ```
 4. Enter your API key in ```Constants.py```
-   ```
+   ```py
    API_KEY = "ENTER YOUR API KEY"
    ```
 
