@@ -34,14 +34,16 @@ To use the API, you'll need to obtain your private API key which can be done thr
 
 ## Installation
 After setting up Python, you can install the application to your local environment with the following instructions:
-1. Clone the repo
+1. Get your free API key at <https://api-ninjas.com/>
+2. Clone the repo
    ```
    git clone https://github.com/Sukhman25K/Currency-Converter.git
    ```
-2. Install any missing Python packages by replacing the name in the command 
+3. Install any missing Python packages by replacing the name in the command 
    ```
    python -m pip install name
    ```
+4. Enter your API key in ```Constants.py```
 
 
 ## Usage
