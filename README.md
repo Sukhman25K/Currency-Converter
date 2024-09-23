@@ -28,9 +28,6 @@ python --version
 ```
 If Python is not installed, you can do so from the [Python website](https://www.python.org/downloads) by selecting the appropriate installer for your required environment.
 
-To use the API, you'll need to obtain your private API key which can be done through the website <https://api-ninjas.com/>. After creating an account, you're able to view and copy your API key which would then need to be placed in the ```Constants.py``` file assigned to the ```API_KEY``` variable.
-
-
 
 ## Installation
 After setting up Python, you can install the application to your local environment with the following instructions:
